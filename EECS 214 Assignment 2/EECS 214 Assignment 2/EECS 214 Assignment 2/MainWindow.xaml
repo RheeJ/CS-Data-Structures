@@ -1,0 +1,23 @@
+﻿<Window x:Class="Assignment_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Visualization" Height="410" Width="500" Background="White" ResizeMode="NoResize">
+    <StackPanel HorizontalAlignment="Left" Width="492">
+        <Canvas x:Name="canvas" Height="300" Background="white" IsHitTestVisible="True" Margin="40,0,40,5"/>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBox x:Name="input" Width="300" Grid.Row="0" Grid.Column="0" Margin="40,0,0,0"/>
+            <Button x:Name="AddFrontBtn" Content ="Add Front" Grid.Row="0" Grid.Column="1" Margin="51,0,-40,0"/>
+            <Button x:Name="RemoveFrontBtn" Content="Remove Front" Grid.Row="1" Grid.Column="1" Margin="51,10,-40,0"/>
+            <Button x:Name="RemoveEndBtn" Content= "Remove End" Grid.Row="1" Grid.Column="0" Margin="224,10,30,10"/>
+            <Button x:Name="AddEndBtn" Content="Add End" Grid.Row="1" Grid.Column="0" Margin="62,10,191,10"/>
+        </Grid>
+    </StackPanel>
+</Window>

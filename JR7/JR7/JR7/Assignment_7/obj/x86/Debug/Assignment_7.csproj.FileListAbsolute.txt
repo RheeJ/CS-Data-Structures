@@ -1,0 +1,13 @@
+C:\Users\JJR975\Documents\JR7\JR7\Assignment_7\bin\Debug\Assignment_7.exe
+C:\Users\JJR975\Documents\JR7\JR7\Assignment_7\bin\Debug\Assignment_7.pdb
+C:\Users\JJR975\Documents\JR7\JR7\Assignment_7\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JJR975\Documents\JR7\JR7\Assignment_7\obj\x86\Debug\MainWindow.baml
+C:\Users\JJR975\Documents\JR7\JR7\Assignment_7\obj\x86\Debug\MainWindow.g.cs
+C:\Users\JJR975\Documents\JR7\JR7\Assignment_7\obj\x86\Debug\App.g.cs
+C:\Users\JJR975\Documents\JR7\JR7\Assignment_7\obj\x86\Debug\Assignment_7_MarkupCompile.cache
+C:\Users\JJR975\Documents\JR7\JR7\Assignment_7\obj\x86\Debug\Assignment_7.g.resources
+C:\Users\JJR975\Documents\JR7\JR7\Assignment_7\obj\x86\Debug\Assignment_7.Properties.Resources.resources
+C:\Users\JJR975\Documents\JR7\JR7\Assignment_7\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\JJR975\Documents\JR7\JR7\Assignment_7\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\JJR975\Documents\JR7\JR7\Assignment_7\obj\x86\Debug\Assignment_7.exe
+C:\Users\JJR975\Documents\JR7\JR7\Assignment_7\obj\x86\Debug\Assignment_7.pdb
